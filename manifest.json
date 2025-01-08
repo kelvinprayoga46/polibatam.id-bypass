@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Polibatam.id Bypass",
+  "version": "1.0",
+  "description" : "Browser extension untuk menghemat waktu 4-5 detik tiap kali anda membuka layanan shortURL dari polibatam.id",
+  "permissions": [
+    "scripting",
+    "activeTab"
+  ],
+  "host_permissions": [
+    "*://polibatam.id/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["*://polibatam.id/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "action":{
+        "default_popup": "index.html",
+        "default_title": "Polibatam.id Bypass"
+  }
+}
