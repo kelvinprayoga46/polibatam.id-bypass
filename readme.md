@@ -7,7 +7,6 @@ Merupakan sebuah browser extension yang digunakan untuk mempersingkat waktu keti
 - Chrome browser
 - Microsoft edge browser
 
-
 ## Instalasi
 
 ### Brave browser
@@ -25,7 +24,7 @@ Merupakan sebuah browser extension yang digunakan untuk mempersingkat waktu keti
 
 - Download release file extension ini pada [link berikut](https://github.com/cornerbytes/polibatam.id-bypass/archive/refs/tags/v1.0.zip) atau pada halaman release github proyek ini.
 - Extract file zip setelah download selesai menggunakan software 7-zip atau winrar.
-- Buka browser brave. 
+- Buka chrome browser. 
 - Pergi ke bagian menu `customize and control google chrome` lalu pilih bagian extension. Atau anda dapat mengetik url `chrome://extensions` pada tab kolom pencarian.
 - Aktifkan developer mode dengan mencentang bagian `developer mode`.
 - Setelah mengaktifkan developer mode pada bagian extensions. Pilih `Load unpacked` lalu navigasi ke folder tempat dimana file extension yang telah diekstrak.
@@ -36,7 +35,7 @@ Merupakan sebuah browser extension yang digunakan untuk mempersingkat waktu keti
 
 - Download release file extension ini pada [link berikut](https://github.com/cornerbytes/polibatam.id-bypass/archive/refs/tags/v1.0.zip) atau pada halaman release github proyek ini.
 - Extract file zip setelah download selesai menggunakan software 7-zip atau winrar.
-- Buka browser brave. 
+- Buka Microsoft Edge browser. 
 - Pergi ke bagian menu `Settings and more` lalu pilih bagian extension. Atau anda dapat mengetik url `edge://extensions` pada tab kolom pencarian.
 - Aktifkan developer mode dengan mencentang bagian `developer mode`.
 - Setelah mengaktifkan developer mode pada bagian extensions. Pilih `Load unpacked` lalu navigasi ke folder tempat dimana file extension yang telah diekstrak.
