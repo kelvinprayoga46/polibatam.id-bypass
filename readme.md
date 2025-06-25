@@ -17,7 +17,7 @@
 
 ### 🦁 Brave Browser
 
-1. Download file release dari [halaman release proyek ini](https://github.com/kelvinprayoga46/polibatam-bypass/releases).
+1. Download file release dari [halaman release proyek ini](https://github.com/kelvinprayoga46/polibatam.id-bypass/releases/download/v1.0/polibatam.id-bypass-1.0.brave.zip).
 2. Ekstrak file `.zip` dengan **7-Zip** atau **WinRAR**.
 3. Buka browser **Brave**.
 4. Masuk ke menu ☰ (Customize and Control Brave) → **Extensions**  
@@ -28,7 +28,7 @@
 
 ### 🌐 Chrome Browser
 
-1. Download file release dari [halaman release proyek ini](https://github.com/kelvinprayoga46/polibatam-bypass/releases).
+1. Download file release dari [halaman release proyek ini](https://github.com/kelvinprayoga46/polibatam.id-bypass/releases/download/v1.0/polibatam.id-bypass-1.0.chrome.zip).
 2. Ekstrak file `.zip` dengan **7-Zip** atau **WinRAR**.
 3. Buka **Chrome**.
 4. Masuk ke menu (Customize and Control Chrome) → **Extensions**  
@@ -39,7 +39,7 @@
 
 ### 🧭 Microsoft Edge
 
-1. Download file release dari [halaman release proyek ini](https://github.com/kelvinprayoga46/polibatam-bypass/releases).
+1. Download file release dari [halaman release proyek ini](https://github.com/kelvinprayoga46/polibatam.id-bypass/releases/download/v1.0/polibatam.id-bypass-1.0.edge.zip).
 2. Ekstrak file `.zip` dengan **7-Zip** atau **WinRAR**.
 3. Buka **Microsoft Edge**.
 4. Masuk ke menu (Settings and More) → **Extensions**  
