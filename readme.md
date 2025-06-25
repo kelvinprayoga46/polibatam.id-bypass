@@ -1,51 +1,63 @@
-# Polibatam.id Bypass 
+# Polibatam Bypass Extension
 
-Merupakan sebuah browser extension yang digunakan untuk mempersingkat waktu ketika mengunjungi shortURL yang disediakan polibatam.id.
+**Polibatam Bypass** adalah sebuah ekstensi browser open-source yang dirancang untuk **melewati short link dari polibatam.id** secara otomatis. Tools ini sangat membantu mahasiswa dan pengguna yang ingin menghemat waktu saat mengakses tautan dari kampus.
 
-## Browser support
-- Brave browser
-- Chrome browser
-- Microsoft edge browser
+## 🔧 Teknologi yang Digunakan
 
-## Instalasi
+- HTML
+- JavaScript
 
-### Brave browser
+## 🚀 Fitur Utama
 
-- Download release file extension ini pada [link berikut](https://github.com/cornerbytes/polibatam.id-bypass/archive/refs/tags/v1.0.zip) atau pada halaman release github proyek ini.
-- Extract file zip setelah download selesai menggunakan software 7-zip atau winrar.
-- Buka browser brave. 
-- Pergi ke bagian menu `☰ customize and control brave` lalu pilih bagian extension. Atau anda dapat mengetik url `brave://extensions` pada tab kolom pencarian.
-- Aktifkan developer mode dengan mencentang bagian `developer mode`.
-- Setelah mengaktifkan developer mode pada bagian extensions. Pilih `Load unpacked` lalu navigasi ke folder tempat dimana file extension yang telah diekstrak.
-- Extension berhasil di install.
-- Jika anda ingin mengaktifkan extension ini dalam private browsing atau private mode. Pilih bagian details pada extension lalu centang `Allow in Private`.
+- 🔗 Melewati short link Polibatam secara otomatis
+- 🌐 Dapat digunakan di berbagai browser (Brave, Chrome, dan Microsoft Edge)
+- 🔓 Open Source dan mudah disesuaikan
 
-### Chrome browser
+## 📦 Cara Install
 
-- Download release file extension ini pada [link berikut](https://github.com/cornerbytes/polibatam.id-bypass/archive/refs/tags/v1.0.zip) atau pada halaman release github proyek ini.
-- Extract file zip setelah download selesai menggunakan software 7-zip atau winrar.
-- Buka chrome browser. 
-- Pergi ke bagian menu `customize and control google chrome` lalu pilih bagian extension. Atau anda dapat mengetik url `chrome://extensions` pada tab kolom pencarian.
-- Aktifkan developer mode dengan mencentang bagian `developer mode`.
-- Setelah mengaktifkan developer mode pada bagian extensions. Pilih `Load unpacked` lalu navigasi ke folder tempat dimana file extension yang telah diekstrak.
-- Extension berhasil di install.
-- Jika anda ingin mengaktifkan extension ini dalam private browsing atau private mode. Pilih bagian details pada extension lalu centang `Allow in Incognito`.
+### 🦁 Brave Browser
 
-### Microsoft Edge browser
+1. Download file release dari [halaman release proyek ini](https://github.com/kelvinprayoga46/polibatam-bypass/releases).
+2. Ekstrak file `.zip` dengan **7-Zip** atau **WinRAR**.
+3. Buka browser **Brave**.
+4. Masuk ke menu ☰ (Customize and Control Brave) → **Extensions**  
+   atau buka `brave://extensions` di tab baru.
+5. Aktifkan **Developer Mode**.
+6. Klik **Load unpacked** dan arahkan ke folder hasil ekstraksi tadi.
+7. (Opsional) Untuk mengaktifkan di Private Mode, klik **Details** lalu centang **Allow in Private**.
 
-- Download release file extension ini pada [link berikut](https://github.com/cornerbytes/polibatam.id-bypass/archive/refs/tags/v1.0.zip) atau pada halaman release github proyek ini.
-- Extract file zip setelah download selesai menggunakan software 7-zip atau winrar.
-- Buka Microsoft Edge browser. 
-- Pergi ke bagian menu `Settings and more` lalu pilih bagian extension. Atau anda dapat mengetik url `edge://extensions` pada tab kolom pencarian.
-- Aktifkan developer mode dengan mencentang bagian `developer mode`.
-- Setelah mengaktifkan developer mode pada bagian extensions. Pilih `Load unpacked` lalu navigasi ke folder tempat dimana file extension yang telah diekstrak.
-- Extension berhasil di install.
-- Jika anda ingin mengaktifkan extension ini dalam private browsing atau private mode. Pilih bagian details pada extension lalu centang `Allow in Private`.
+### 🌐 Chrome Browser
 
-## Lisensi 
+1. Download file release dari [halaman release proyek ini](https://github.com/kelvinprayoga46/polibatam-bypass/releases).
+2. Ekstrak file `.zip` dengan **7-Zip** atau **WinRAR**.
+3. Buka **Chrome**.
+4. Masuk ke menu (Customize and Control Chrome) → **Extensions**  
+   atau buka `chrome://extensions` di tab baru.
+5. Aktifkan **Developer Mode**.
+6. Klik **Load unpacked** dan arahkan ke folder hasil ekstraksi.
+7. (Opsional) Untuk Incognito Mode, klik **Details** lalu centang **Allow in Incognito**.
 
-Proyek ini dilisensikan di bawah Lisensi "The Unlicense".
+### 🧭 Microsoft Edge
 
-## Kontribusi
+1. Download file release dari [halaman release proyek ini](https://github.com/kelvinprayoga46/polibatam-bypass/releases).
+2. Ekstrak file `.zip` dengan **7-Zip** atau **WinRAR**.
+3. Buka **Microsoft Edge**.
+4. Masuk ke menu (Settings and More) → **Extensions**  
+   atau buka `edge://extensions` di tab baru.
+5. Aktifkan **Developer Mode**.
+6. Klik **Load unpacked** dan arahkan ke folder hasil ekstraksi.
+7. (Opsional) Untuk Private Mode, klik **Details** lalu centang **Allow in Private**.
 
-Segala bentuk kontribusi sangat dihargai.
+## 🤝 Kontribusi
+
+Proyek ini bersifat open-source. Pull request dan masukan sangat diterima!  
+Silakan fork repository ini dan buat perubahan yang kamu inginkan.
+
+## 🧑‍💻 Author
+
+**Kelvin Prayoga & Emilio Kevin**  
+GitHub: [@kelvinprayoga46](https://github.com/kelvinprayoga46) & [@emilio-kevin](https://github.com/corner-bytes)
+
+---
+
+Lisensi: [MIT License](LICENSE)
